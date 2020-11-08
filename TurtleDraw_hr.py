@@ -3,7 +3,6 @@
 #
 # By: Hannah Rausch
 #
-# All rights reserved.
 
 TEXTFILENAME = input('Please input text file name: ')
 
